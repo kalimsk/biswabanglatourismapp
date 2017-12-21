@@ -114,6 +114,10 @@ hr {}
 .head_left {
     padding-left: 0in !important;
 }
+
+.head_left img{
+    float: left;
+}
 .main_menu{
   background: #3F51B5;
   border-bottom: 1px solid #BDBDBD;
@@ -778,5 +782,5 @@ hr {}
 }
 
 .home-banner {
-    background-image: url('../img/home/home-banner.jpg');
+    background-image: url('../img/home/howrah_bridge.jpg');
 }
